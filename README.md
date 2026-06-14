@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28931324/README.md)
 # GitHub Collaboration and CLI Final Project
 
 This repository is created for the peer-graded GitHub collaboration and command line interface final project.
@@ -6,6 +5,8 @@ This repository is created for the peer-graded GitHub collaboration and command 
 ## Project description
 
 The project demonstrates basic GitHub repository setup, open-source documentation, contribution guidelines, and a simple shell script.
+
+This project was updated as part of the GitHub collaboration assignment.
 
 ## Files included
 
